@@ -1,0 +1,22 @@
+html,body{
+    height: 100%;
+    overflow: hidden;
+}
+
+.app-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    overflow: auto;
+}
+
+.top{
+    border:solid 1px #444444;
+}
+.middle{
+    border:solid 1px #444444;
+}
+.bottom{
+    border:solid 1px #444444;
+}
